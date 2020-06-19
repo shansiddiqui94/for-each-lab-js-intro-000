@@ -18,6 +18,13 @@ array.forEach(callback)
 return array
 }
 
+
+function doToArray(array, callback){
+  array.forEach(callback)
+}
+
+
+
 // var evens = [0, 2, 4, 6, 8, 10];
 //
 // evens.forEach((even, index, array) => {
