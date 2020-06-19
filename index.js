@@ -7,7 +7,8 @@ function iterativeLog(array){
 
   })
 }
-// 
+
+//
 // function iterate(function(array)){
 //   array.forEach(array){
 //
