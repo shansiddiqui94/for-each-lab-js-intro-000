@@ -11,7 +11,7 @@ function iterativeLog(array){
 
 function iterate(callback){
 
-const array = [1, 2, 3, 4, 5]
+const array = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
 
 array.forEach(callback)
 
