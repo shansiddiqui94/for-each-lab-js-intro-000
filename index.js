@@ -10,9 +10,7 @@ function iterativeLog(array){
 
 
 function iterate(array){
-
-  array.forEach(function(array)){
-
+array.forEach(function(array)){
   }
   return array
 }
