@@ -12,6 +12,7 @@ function iterativeLog(array){
 function iterate(callback){
 let array = [a, b, c, d, e, f, g]
 array.forEach(callback)
+return array
 }
 
 // var evens = [0, 2, 4, 6, 8, 10];
