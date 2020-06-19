@@ -10,8 +10,11 @@ function iterativeLog(array){
 
 
 function iterate(callback){
+  
 const array = [a, b, c, d, e, f, g]
+
 array.forEach(callback)
+
 return array
 }
 
