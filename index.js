@@ -9,10 +9,12 @@ function iterativeLog(array){
 }
 
 
-function iterate(function(array)){
-  array.forEach(array){
+function iterate(array){
+
+  array.forEach(function(array)){
 
   }
+  return array
 }
 
 // var evens = [0, 2, 4, 6, 8, 10];
